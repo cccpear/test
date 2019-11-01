@@ -1,0 +1,23 @@
+{
+  "name": "day50",
+  "version": "1.0.0",
+  "description": "test分支\r 1dev分支\r 11111",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cccpear/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cccpear/test/issues"
+  },
+  "homepage": "https://github.com/cccpear/test#readme",
+  "devDependencies": {
+    "sass": "^1.23.3"
+  }
+}
